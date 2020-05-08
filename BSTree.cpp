@@ -1,3 +1,5 @@
+/* Code by Stephen Dong */
+
 #include "BSTree.h"
 
 BSTree::BSTree() : root(0) {}   // done
